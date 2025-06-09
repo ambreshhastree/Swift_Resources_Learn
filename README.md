@@ -10,3 +10,4 @@ Gallery Permission --> https://swiftsenpai.com/development/photo-library-permiss
 
 <br />
 Tutorials --> 1. https://www.kodeco.com/ios/videos      <br />
+              2. https://swiftsenpai.com/tag/ios/
